@@ -1,4 +1,4 @@
-# Auth is still frustrating
+# Auth is still frustrating!
 - Best reference I've found for .Net & Entra for external customers (ME:ID, whatever they opt to call it tomorrow) is [here](https://github.com/Azure-Samples/ms-identity-ciam-dotnet-tutorial)
 
 ## EfCore basics
